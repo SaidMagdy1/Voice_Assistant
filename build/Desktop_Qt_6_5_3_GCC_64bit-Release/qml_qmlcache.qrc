@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="assets/micIcon.png">../../assets/micIcon.png</file>
+        <file alias="assets/XIcon.png">../../assets/XIcon.png</file>
+        <file alias="assets/LCPT.gif">../../assets/LCPT.gif</file>
+        <file alias="assets/equa.png">../../assets/equa.png</file>
+    </qresource>
+</RCC>

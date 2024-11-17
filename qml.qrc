@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/micIcon.png</file>
+        <file>assets/XIcon.png</file>
+        <file>assets/LCPT.gif</file>
+        <file>assets/equa.png</file>
+    </qresource>
+</RCC>
